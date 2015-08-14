@@ -1,0 +1,13 @@
+user1 = {name:"Katie", plan:"freetrial"}
+user2 = {name:"Rossy", key2:"premium"} 
+user3 = {name:"Charly", key2:"freetrail"} 
+user4 = {name:"Moen", key2:"premium"} 
+user5 = {name:"Abdul", key2:"beta"} 
+user6 = {name:"Sahsha", key2:"complete"} 
+user7 = {name:"Olesya", key2:"beta"} 
+user8 = {name:"Lyuda", key2:"freetrial"} 
+user9 = {name:"Sonya", key2:"beta"} 
+ 
+freetrail_user = plan[:name]
+
+puts"#{freetrail_user} user name"
